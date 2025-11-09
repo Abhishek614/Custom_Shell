@@ -1,4 +1,4 @@
-# Custom Shell - Capstone Project
+# Custom Shel lin C++ (Capstone Project)
 
 ### 👨‍💻 Author: Abhishek Mohapatra  
 **Registration Number:** 2241013303  
