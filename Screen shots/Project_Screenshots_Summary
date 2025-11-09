@@ -1,0 +1,2 @@
+The screenshots demonstrate the step-by-step development of the Custom Shell in C++. 
+From creating a basic command loop to executing system commands, handling background jobs, implementing piping and redirection, and finally adding foreground and background job control — each stage verifies successful feature integration and shell functionality.
